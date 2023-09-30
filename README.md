@@ -2,7 +2,6 @@
 	
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> **I currently**</b>
 
-https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif
 <picture> <img align="right" src="https://raw.githubusercontent.com/Adam-pw/Adam-pw/main/animation_500_kxa883sd.gif" width = 250px></picture>
 
 - A passionate Self-taught Front-end developer
