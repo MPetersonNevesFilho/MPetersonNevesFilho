@@ -7,7 +7,6 @@
 - A passionate Self-taught Front-end developer
 - Playing RPG's at spare time
 - Currently learning Web Development by self and student at the University of Aveiro
-- Intern at Tecmafoods
 - Languages, Softwares and Tools:
     
     ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
